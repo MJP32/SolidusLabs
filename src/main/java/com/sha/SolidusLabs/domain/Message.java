@@ -1,4 +1,4 @@
-package com.sha.SolidusLabs;
+package com.sha.SolidusLabs.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

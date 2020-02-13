@@ -1,4 +1,4 @@
-package com.sha.SolidusLabs;
+package com.sha.SolidusLabs.util;
 
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;

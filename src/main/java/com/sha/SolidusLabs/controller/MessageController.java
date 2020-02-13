@@ -1,6 +1,8 @@
-package com.sha.SolidusLabs;
+package com.sha.SolidusLabs.controller;
 
-import com.sha.SolidusLabs.exceptions.MessageNotFoundException;
+import com.sha.SolidusLabs.domain.Message;
+import com.sha.SolidusLabs.database.MessageRepository;
+import com.sha.SolidusLabs.util.HashMessage;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
