@@ -1,10 +1,15 @@
 # To start the application go to SolidusLabsApplication and run
 
 
-# To view results goto http://localhost:8080/message
+# To view results, send a valid post message to the server in the following json format
+
+    {
+        "message":"hello"
+    }
+
+
+#goto http://localhost:8080/message
 
 
 # Bottlenecks are created when storing and retrieving from a database
-
-
-# This can be scaled by running multiple copies of the application with load balancers.  Also more servers could be added.
+# This can be scaled by running multiple copies of the application with load balancers.  Also more servers could be added to run the application.
