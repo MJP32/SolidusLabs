@@ -8,7 +8,7 @@
     }
 
 
-#goto http://localhost:8080/message
+#goto http://localhost:8080/message/2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
 
 
 # Bottlenecks are created when storing and retrieving from a database
